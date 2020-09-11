@@ -1,0 +1,13 @@
+C:\LN\giatritrongmang\bin\Debug\netcoreapp3.1\giatritrongmang.exe
+C:\LN\giatritrongmang\bin\Debug\netcoreapp3.1\giatritrongmang.deps.json
+C:\LN\giatritrongmang\bin\Debug\netcoreapp3.1\giatritrongmang.runtimeconfig.json
+C:\LN\giatritrongmang\bin\Debug\netcoreapp3.1\giatritrongmang.runtimeconfig.dev.json
+C:\LN\giatritrongmang\bin\Debug\netcoreapp3.1\giatritrongmang.dll
+C:\LN\giatritrongmang\bin\Debug\netcoreapp3.1\giatritrongmang.pdb
+C:\LN\giatritrongmang\obj\Debug\netcoreapp3.1\giatritrongmang.csprojAssemblyReference.cache
+C:\LN\giatritrongmang\obj\Debug\netcoreapp3.1\giatritrongmang.AssemblyInfoInputs.cache
+C:\LN\giatritrongmang\obj\Debug\netcoreapp3.1\giatritrongmang.AssemblyInfo.cs
+C:\LN\giatritrongmang\obj\Debug\netcoreapp3.1\giatritrongmang.csproj.CoreCompileInputs.cache
+C:\LN\giatritrongmang\obj\Debug\netcoreapp3.1\giatritrongmang.dll
+C:\LN\giatritrongmang\obj\Debug\netcoreapp3.1\giatritrongmang.pdb
+C:\LN\giatritrongmang\obj\Debug\netcoreapp3.1\giatritrongmang.genruntimeconfig.cache
